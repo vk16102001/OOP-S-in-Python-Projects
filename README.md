@@ -14,5 +14,5 @@
 4. Check successful transaction
 5. Make Coffee
 
-### Video Explanation -
+### Video Explanation:
 https://drive.google.com/file/d/1SD-HbOyXIhx7hEZyoPEVL0_kAuY_amdy/view?usp=sharing
